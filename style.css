@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    text-shadow: 20px;
+    padding: 20px;
+
+
+}
+
+button
+{
+background-color: gold;
+outline-color: rgb(0, 0, 0);
+text-decoration: black;
+}
+
+div
+{
+text-align: right;
+padding-top: 0px;
+}
